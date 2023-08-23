@@ -1,0 +1,4 @@
+Dockerfile
+.gitlab-ci.yml
+build-local.*
+add-gitlab-ci.sh

@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+    "target": "es2020",
+    "lib": ["esnext"],
+    "module": "commonjs",
+    "outDir": "dist",
+    "sourceMap": true,
+    "removeComments": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,
+    "declaration": true,
+    "skipLibCheck": true,
+    "baseUrl": ".",
+    "strict": true,
+  },
+  "exclude": [
+    "node_modules", "dist",
+  ]
+}

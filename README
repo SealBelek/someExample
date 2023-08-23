@@ -1,0 +1,9 @@
+kafka
+http
+moleculer (nats)
+observability (logging, tracing)
+mongoose (mongodb)
+typescript
+jest
+
+Код приложение в someModule, остальное вспомогательные модули

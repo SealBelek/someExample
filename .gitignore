@@ -1,0 +1,14 @@
+.idea/
+.nyc_output/
+node_modules/
+*.log
+*.sql
+.env
+build-local.env
+npm-debug.log
+dist/
+.env
+log/*
+build-local.env
+.vscode/
+coverage/
